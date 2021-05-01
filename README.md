@@ -1,2 +1,3 @@
 # graphql-prisma-starter
-basic starter project using graphql and prisma. implements queries, mutations and user authentication. 
+
+A basic starter project using graphql and prisma. It implements a simple blogging API to demonstrate various graphql features.
